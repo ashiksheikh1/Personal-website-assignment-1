@@ -1,0 +1,252 @@
+.section-1 {
+    background-image: url("donate-today-main/images/salvation1.jpg");
+    width: 80%;
+    height: 400px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+
+.main h2 {
+    color: aliceblue;
+    font-size: 60px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.main {
+    text-align: center;
+    color: aliceblue;
+    padding-top: 60px;
+}
+
+.main p {
+    font-size: 20px;
+
+}
+
+.main a {
+    background-color: tomato;
+    color: aliceblue;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: capitalize;
+    border-radius: 10px;
+
+}
+
+.section-2 {
+    text-align: center;
+}
+
+.section-2 h2 {
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+.section-2 p {
+    color: gray;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.taka {
+    display: flex;
+    justify-content: center;
+    /* box-shadow: 10px 10px; */
+}
+
+.taka h2 {
+    padding: 20px 10px;
+    background-color: rgba(231, 225, 225, 0.685);
+    margin: 5px;
+    text-align: center;
+    transition: all 0.5s;
+    border: 1px solid transparent;
+    border-radius: 5px;
+
+}
+
+.color {
+    background-color: pink !important;
+    border: 1px solid rgba(216, 30, 30, 0.726) !important;
+    color: red;
+    border-radius: 5px;
+}
+
+.amount h4 {
+    border-bottom: 1px solid rgba(128, 119, 119, 0.658);
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 40px;
+}
+
+.amount a {
+    background-color: tomato;
+    color: aliceblue;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: capitalize;
+    border-radius: 10px;
+
+}
+
+.donate-button {
+    margin-top: 50px !important;
+}
+
+.main-2 {
+    text-align: center;
+}
+
+.main-2 h2 {
+    font-size: 60px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.main-2 p {
+    margin: 0px 400px;
+    font-size: 20px;
+    color: rgba(99, 96, 96, 0.719);
+}
+
+.card-continer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.card-1 {
+    width: 20%;
+    background-color: rgba(216, 213, 213, 0.753);
+    padding: 35px 20px;
+    margin: 10px;
+
+}
+
+.card-2 {
+    width: 20%;
+    background-color: aquamarine;
+    padding: 35px 20px;
+    margin: 10px;
+
+}
+
+.card-3 {
+    width: 20%;
+    background-color: pink;
+    padding: 35px 20px;
+    margin: 10px;
+
+}
+
+.card h2 {
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.card p {
+
+    font-size: 20px;
+    color: rgba(99, 96, 96, 0.719);
+}
+
+.section-bonus {
+    display: flex;
+    margin: 80px 200px;
+}
+
+.img-bonus img {
+    width: 400px;
+    height: 400px;
+    margin-right: 50px;
+}
+
+.section-bonus h2 {
+    font-size: 40px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.section-bonus p {
+    font-size: 15px;
+    color: rgba(116, 113, 113, 0.801);
+}
+
+.text-p {
+    margin-bottom: 40px;
+}
+
+.donate-button-2 {
+    background-color: tomato;
+    color: aliceblue;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: capitalize;
+    border-radius: 10px;
+}
+
+.main-3 {
+    text-align: center;
+}
+
+.main-3 h2 {
+    font-size: 40px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.main-3 p {
+    margin: 0 400px;
+    font-size: 20px;
+    color: rgba(99, 96, 96, 0.719);
+}
+
+.input-button {
+    background-color: pink;
+    text-align: center;
+    margin: 20px 320px;
+    padding: 60px 30px;
+
+}
+
+.input-button input {
+    padding: 10px 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.input-button button {
+    background-color: red;
+    padding: 10px 10px;
+    border: 0px;
+    margin-left: -6px;
+    border-radius: 5px;
+}
+
+.humble {
+    text-align: center;
+    background-color: black;
+    padding: 30px 0px;
+}
+
+.humble h2 {
+    color: red;
+    font-style: italic;
+}
+
+.humble {
+    color: rgba(182, 184, 185, 0.658);
+}
