@@ -1,9 +1,13 @@
 .section-1 {
-    background-image: url("donate-today-main/images/salvation1.jpg");
+    background-color: rgba(232, 224, 224, 0.275);
+    background-image: url("donate-today-main/images/salvation1.jpg"), linear-gradient(rgba(0, 0, 0, 0.5), rgba(6, 6, 6, 0.853));
+    background-blend-mode: overlay;
+    ;
     width: 80%;
     height: 400px;
     margin: 0 auto;
     background-repeat: no-repeat;
+
 }
 
 .main h2 {
@@ -147,7 +151,6 @@
     background-color: pink;
     padding: 35px 20px;
     margin: 10px;
-
 }
 
 .card h2 {
@@ -160,6 +163,22 @@
 
     font-size: 20px;
     color: rgba(99, 96, 96, 0.719);
+}
+
+.donetions p {
+    margin: 10px 40px;
+
+}
+
+.donetions {
+    display: flex;
+    text-align: center;
+    margin: 10px 90px;
+}
+
+.donetions img {
+    width: 300px;
+    height: 200px;
 }
 
 .section-bonus {
@@ -225,7 +244,8 @@
 .input-button input {
     padding: 10px 10px;
     border: none;
-    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 
 .input-button button {
@@ -233,7 +253,8 @@
     padding: 10px 10px;
     border: 0px;
     margin-left: -6px;
-    border-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
 .humble {
